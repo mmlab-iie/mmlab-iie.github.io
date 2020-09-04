@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yiming Xu | MMLab-IIE</title>
+    <link>https://mmlab-iie.github.io/author/yiming-xu/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/yiming-xu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yiming Xu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yiming Xu</title>
+      <link>https://mmlab-iie.github.io/author/yiming-xu/</link>
+    </image>
+    
+    <item>
+      <title>Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/xu-2019-fine/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/xu-2019-fine/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

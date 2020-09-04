@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yue Hu | MMLab-IIE</title>
+    <link>https://mmlab-iie.github.io/author/yue-hu/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/yue-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yue Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Apr 2020 01:45:56 +0800</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yue Hu</title>
+      <link>https://mmlab-iie.github.io/author/yue-hu/</link>
+    </image>
+    
+    <item>
+      <title>Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering</title>
+      <link>https://mmlab-iie.github.io/publication/zhu-2020-ijcai-mucko/</link>
+      <pubDate>Sat, 25 Apr 2020 01:45:56 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/zhu-2020-ijcai-mucko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue</title>
+      <link>https://mmlab-iie.github.io/publication/jiang-2020-ijcai-dam/</link>
+      <pubDate>Fri, 24 Apr 2020 01:45:56 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/jiang-2020-ijcai-dam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DualVD: An Adaptive Dual Encoding Model for Deep Visual Understanding in Visual Dialogue</title>
+      <link>https://mmlab-iie.github.io/publication/jiang-2019-dualvd/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/jiang-2019-dualvd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning on the Relation: Enhancing Visual Representation for Visual Question Answering and Cross-modal Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2020-reasoning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2020-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2D-Convolution Based Feature Fusion for Cross-Modal Correlation Learning</title>
+      <link>https://mmlab-iie.github.io/publication/guo-20192-d/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/guo-20192-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/xu-2019-fine/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/xu-2019-fine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Modeling of Textual Relationships in Cross-Modal Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2019-semantic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2019-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning cross-modal correlations by exploring inter-word semantics and stacked co-attention</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2018-learning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2018-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scene Graph Reasoning with Prior Visual Relationship for Visual Question Answering</title>
+      <link>https://mmlab-iie.github.io/publication/yang-2018-scene/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yang-2018-scene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Pattern Graph Correlations for Efficient Graph Pattern Matching</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2017-multiple/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2017-multiple/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

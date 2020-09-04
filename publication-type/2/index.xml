@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | MMLab-IIE</title>
+    <link>https://mmlab-iie.github.io/publication-type/2/</link>
+      <atom:link href="https://mmlab-iie.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>https://mmlab-iie.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Automatic image annotation via category labels</title>
+      <link>https://mmlab-iie.github.io/publication/zhang-2020-automatic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/zhang-2020-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal feature fusion by relational reasoning and attention for visual question answering</title>
+      <link>https://mmlab-iie.github.io/publication/zhang-2020-multimodal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/zhang-2020-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning on the Relation: Enhancing Visual Representation for Visual Question Answering and Cross-modal Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2020-reasoning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2020-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning cross-modal correlations by exploring inter-word semantics and stacked co-attention</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2018-learning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2018-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scene Graph Reasoning with Prior Visual Relationship for Visual Question Answering</title>
+      <link>https://mmlab-iie.github.io/publication/yang-2018-scene/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yang-2018-scene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic correlation model for cross-modal multimedia information retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/qin-2016-topic/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/qin-2016-topic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature integration analysis of bag-of-features model for image retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2013-feature/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2013-feature/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

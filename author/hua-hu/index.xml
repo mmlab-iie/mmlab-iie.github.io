@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hua Hu | MMLab-IIE</title>
+    <link>https://mmlab-iie.github.io/author/hua-hu/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/hua-hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hua Hu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Hua Hu</title>
+      <link>https://mmlab-iie.github.io/author/hua-hu/</link>
+    </image>
+    
+    <item>
+      <title>Automatic image annotation via category labels</title>
+      <link>https://mmlab-iie.github.io/publication/zhang-2020-automatic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/zhang-2020-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal feature fusion by relational reasoning and attention for visual question answering</title>
+      <link>https://mmlab-iie.github.io/publication/zhang-2020-multimodal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/zhang-2020-multimodal/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

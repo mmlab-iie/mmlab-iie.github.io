@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yanbing Liu | MMLab-IIE</title>
+    <link>https://mmlab-iie.github.io/author/yanbing-liu/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/yanbing-liu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yanbing Liu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yanbing Liu</title>
+      <link>https://mmlab-iie.github.io/author/yanbing-liu/</link>
+    </image>
+    
+    <item>
+      <title>2D-Convolution Based Feature Fusion for Cross-Modal Correlation Learning</title>
+      <link>https://mmlab-iie.github.io/publication/guo-20192-d/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/guo-20192-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-grained correlation learning with stacked co-attention networks for cross-modal information retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/lu-2018-fine/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/lu-2018-fine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning cross-modal correlations by exploring inter-word semantics and stacked co-attention</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2018-learning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2018-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling text with graph convolutional network for cross-modal information retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2018-modeling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2018-modeling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiple Pattern Graph Correlations for Efficient Graph Pattern Matching</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2017-multiple/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2017-multiple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PatternTreeISO: A Pattern Graph Correlation Framework for Accelerating Subgraph Isomorphism over Massive Graphs</title>
+      <link>https://mmlab-iie.github.io/publication/zhou-2016-patterntreeiso/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/zhou-2016-patterntreeiso/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vsep: A distributed algorithm for graph edge partitioning</title>
+      <link>https://mmlab-iie.github.io/publication/zhang-2015-vsep/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/zhang-2015-vsep/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

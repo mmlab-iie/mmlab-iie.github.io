@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yajing Sun | MMLab-IIE</title>
+    <link>https://mmlab-iie.github.io/author/yajing-sun/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/yajing-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yajing Sun</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Apr 2020 01:45:56 +0800</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yajing Sun</title>
+      <link>https://mmlab-iie.github.io/author/yajing-sun/</link>
+    </image>
+    
+    <item>
+      <title>Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering</title>
+      <link>https://mmlab-iie.github.io/publication/zhu-2020-ijcai-mucko/</link>
+      <pubDate>Sat, 25 Apr 2020 01:45:56 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/zhu-2020-ijcai-mucko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue</title>
+      <link>https://mmlab-iie.github.io/publication/jiang-2020-ijcai-dam/</link>
+      <pubDate>Fri, 24 Apr 2020 01:45:56 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/jiang-2020-ijcai-dam/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

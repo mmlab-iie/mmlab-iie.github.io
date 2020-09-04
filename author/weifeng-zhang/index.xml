@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Weifeng Zhang | MMLab-IIE</title>
+    <link>https://mmlab-iie.github.io/author/weifeng-zhang/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/weifeng-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Weifeng Zhang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Weifeng Zhang</title>
+      <link>https://mmlab-iie.github.io/author/weifeng-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Automatic image annotation via category labels</title>
+      <link>https://mmlab-iie.github.io/publication/zhang-2020-automatic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/zhang-2020-automatic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal feature fusion by relational reasoning and attention for visual question answering</title>
+      <link>https://mmlab-iie.github.io/publication/zhang-2020-multimodal/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/zhang-2020-multimodal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning on the Relation: Enhancing Visual Representation for Visual Question Answering and Cross-modal Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2020-reasoning/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2020-reasoning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-grained correlation learning with stacked co-attention networks for cross-modal information retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/lu-2018-fine/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/lu-2018-fine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning cross-modal correlations by exploring inter-word semantics and stacked co-attention</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2018-learning/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2018-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling text with graph convolutional network for cross-modal information retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2018-modeling/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2018-modeling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
