@@ -5,12 +5,20 @@
     <link>https://mmlab-iie.github.io/author/jianlong-tan/</link>
       <atom:link href="https://mmlab-iie.github.io/author/jianlong-tan/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianlong Tan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 10:52:48 +0800</lastBuildDate>
     <image>
       <url>https://mmlab-iie.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jianlong Tan</title>
       <link>https://mmlab-iie.github.io/author/jianlong-tan/</link>
     </image>
+    
+    <item>
+      <title>Cross-modal knowledge reasoning for knowledge-based visual question answering</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2020-pr/</link>
+      <pubDate>Wed, 16 Sep 2020 10:52:48 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2020-pr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Reasoning on the Relation: Enhancing Visual Representation for Visual Question Answering and Cross-modal Retrieval</title>

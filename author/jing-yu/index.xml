@@ -5,12 +5,28 @@
     <link>https://mmlab-iie.github.io/author/jing-yu/</link>
       <atom:link href="https://mmlab-iie.github.io/author/jing-yu/index.xml" rel="self" type="application/rss+xml" />
     <description>Jing Yu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 25 Apr 2020 01:45:56 +0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 10:52:48 +0800</lastBuildDate>
     <image>
       <url>https://mmlab-iie.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Jing Yu</title>
       <link>https://mmlab-iie.github.io/author/jing-yu/</link>
     </image>
+    
+    <item>
+      <title>Cross-modal knowledge reasoning for knowledge-based visual question answering</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2020-pr/</link>
+      <pubDate>Wed, 16 Sep 2020 10:52:48 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2020-pr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-modal learning with prior visual relation knowledge</title>
+      <link>https://mmlab-iie.github.io/publication/yu-2020-kbs/</link>
+      <pubDate>Sat, 12 Sep 2020 11:13:02 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/yu-2020-kbs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering</title>
@@ -29,7 +45,7 @@
     </item>
     
     <item>
-      <title>Automatic image annotation via category labels</title>
+      <title>Cross-modal learning with prior visual relation knowledge</title>
       <link>https://mmlab-iie.github.io/publication/zhang-2020-automatic/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>https://mmlab-iie.github.io/publication/zhang-2020-automatic/</guid>
