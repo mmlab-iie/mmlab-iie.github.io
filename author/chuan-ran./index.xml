@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chuan Ran. | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/chuan-ran./</link>
+      <atom:link href="https://mmlab-iie.github.io/author/chuan-ran./index.xml" rel="self" type="application/rss+xml" />
+    <description>Chuan Ran.</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
+      <title>Chuan Ran.</title>
+      <link>https://mmlab-iie.github.io/author/chuan-ran./</link>
+    </image>
+    
+    <item>
+      <title>DMRFNet: Deep Multimodal Reasoning and Fusion for Visual Question Answering and explanation generation</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2021-zhangweifeng-if/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2021-zhangweifeng-if/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://mmlab-iie.github.io/sitemap.xml
