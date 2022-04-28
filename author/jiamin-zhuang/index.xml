@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jiamin Zhuang | CogModal Group</title>
-    <link>https://mmlab-iie.github.io/author/jiamin-zhuang/</link>
-      <atom:link href="https://mmlab-iie.github.io/author/jiamin-zhuang/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jiamin Zhuang</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://mmlab-iie.github.io/author/jiamin-zhuang/avatar_hu1aa2d57624e80b8c9f104394179a5a0f_36649_270x270_fill_q75_lanczos_center.jpeg</url>
-      <title>Jiamin Zhuang</title>
-      <link>https://mmlab-iie.github.io/author/jiamin-zhuang/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jiamin Zhuang | CogModal Group</title><link>https://mmlab-iie.github.io/author/jiamin-zhuang/</link><atom:link href="https://mmlab-iie.github.io/author/jiamin-zhuang/index.xml" rel="self" type="application/rss+xml"/><description>Jiamin Zhuang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://mmlab-iie.github.io/author/jiamin-zhuang/avatar_hu1aa2d57624e80b8c9f104394179a5a0f_36649_270x270_fill_q75_lanczos_center.jpeg</url><title>Jiamin Zhuang</title><link>https://mmlab-iie.github.io/author/jiamin-zhuang/</link></image></channel></rss>

@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Yunpeng Li | CogModal Group</title>
-    <link>https://mmlab-iie.github.io/author/yunpeng-li/</link>
-      <atom:link href="https://mmlab-iie.github.io/author/yunpeng-li/index.xml" rel="self" type="application/rss+xml" />
-    <description>Yunpeng Li</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://mmlab-iie.github.io/author/yunpeng-li/avatar_hub4c155d1044fb9a1139479a070052902_31176_270x270_fill_q75_lanczos_center.jpeg</url>
-      <title>Yunpeng Li</title>
-      <link>https://mmlab-iie.github.io/author/yunpeng-li/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yunpeng Li | CogModal Group</title><link>https://mmlab-iie.github.io/author/yunpeng-li/</link><atom:link href="https://mmlab-iie.github.io/author/yunpeng-li/index.xml" rel="self" type="application/rss+xml"/><description>Yunpeng Li</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://mmlab-iie.github.io/author/yunpeng-li/avatar_hub4c155d1044fb9a1139479a070052902_31176_270x270_fill_q75_lanczos_center.jpeg</url><title>Yunpeng Li</title><link>https://mmlab-iie.github.io/author/yunpeng-li/</link></image></channel></rss>

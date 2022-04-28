@@ -1,16 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Jing Yu | CogModal Group</title>
-    <link>https://mmlab-iie.github.io/author/jing-yu/</link>
-      <atom:link href="https://mmlab-iie.github.io/author/jing-yu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Jing Yu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
-    <image>
-      <url>https://mmlab-iie.github.io/author/jing-yu/avatar_hud636b90d043ced8cc1b93df26aaf767f_1078201_270x270_fill_q75_lanczos_center.jpg</url>
-      <title>Jing Yu</title>
-      <link>https://mmlab-iie.github.io/author/jing-yu/</link>
-    </image>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jing Yu | CogModal Group</title><link>https://mmlab-iie.github.io/author/jing-yu/</link><atom:link href="https://mmlab-iie.github.io/author/jing-yu/index.xml" rel="self" type="application/rss+xml"/><description>Jing Yu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://mmlab-iie.github.io/author/jing-yu/avatar_hud636b90d043ced8cc1b93df26aaf767f_1078201_270x270_fill_q75_lanczos_center.jpg</url><title>Jing Yu</title><link>https://mmlab-iie.github.io/author/jing-yu/</link></image></channel></rss>
