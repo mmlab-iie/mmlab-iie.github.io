@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jianlong Tan | CogModal Group</title><link>https://mmlab-iie.github.io/author/jianlong-tan/</link><atom:link href="https://mmlab-iie.github.io/author/jianlong-tan/index.xml" rel="self" type="application/rss+xml"/><description>Jianlong Tan</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 10:52:48 +0800</lastBuildDate><image><url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url><title>Jianlong Tan</title><link>https://mmlab-iie.github.io/author/jianlong-tan/</link></image><item><title>Cross-modal knowledge reasoning for knowledge-based visual question answering</title><link>https://mmlab-iie.github.io/publication/journal-2020-yujing-pr/</link><pubDate>Wed, 16 Sep 2020 10:52:48 +0800</pubDate><guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-pr/</guid><description/></item><item><title>Reasoning on the Relation: Enhancing Visual Representation for Visual Question Answering and Cross-modal Retrieval</title><link>https://mmlab-iie.github.io/publication/journal-2020-yujing-tmm/</link><pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate><guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-tmm/</guid><description/></item><item><title>Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval</title><link>https://mmlab-iie.github.io/publication/conference-2019-xuyiming-iccs/</link><pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate><guid>https://mmlab-iie.github.io/publication/conference-2019-xuyiming-iccs/</guid><description/></item><item><title>Fine-grained correlation learning with stacked co-attention networks for cross-modal information retrieval</title><link>https://mmlab-iie.github.io/publication/conference-2018-luyuhang-ksem/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://mmlab-iie.github.io/publication/conference-2018-luyuhang-ksem/</guid><description/></item><item><title>Modeling text with graph convolutional network for cross-modal information retrieval</title><link>https://mmlab-iie.github.io/publication/conference-2018-yujing-pcm/</link><pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate><guid>https://mmlab-iie.github.io/publication/conference-2018-yujing-pcm/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianlong Tan | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/jianlong-tan/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/jianlong-tan/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianlong Tan</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Sep 2020 10:52:48 +0800</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
+      <title>Jianlong Tan</title>
+      <link>https://mmlab-iie.github.io/author/jianlong-tan/</link>
+    </image>
+    
+    <item>
+      <title>Cross-modal knowledge reasoning for knowledge-based visual question answering</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2020-yujing-pr/</link>
+      <pubDate>Wed, 16 Sep 2020 10:52:48 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-pr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning on the Relation: Enhancing Visual Representation for Visual Question Answering and Cross-modal Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2020-yujing-tmm/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-tmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2019-xuyiming-iccs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2019-xuyiming-iccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-grained correlation learning with stacked co-attention networks for cross-modal information retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2018-luyuhang-ksem/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2018-luyuhang-ksem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling text with graph convolutional network for cross-modal information retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2018-yujing-pcm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2018-yujing-pcm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

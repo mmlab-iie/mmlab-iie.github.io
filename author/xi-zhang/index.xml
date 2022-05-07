@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Xi Zhang | CogModal Group</title><link>https://mmlab-iie.github.io/author/xi-zhang/</link><atom:link href="https://mmlab-iie.github.io/author/xi-zhang/index.xml" rel="self" type="application/rss+xml"/><description>Xi Zhang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate><image><url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url><title>Xi Zhang</title><link>https://mmlab-iie.github.io/author/xi-zhang/</link></image><item><title>Feature integration analysis of bag-of-features model for image retrieval</title><link>https://mmlab-iie.github.io/publication/journal-2013-yujing-neurocomputing/</link><pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate><guid>https://mmlab-iie.github.io/publication/journal-2013-yujing-neurocomputing/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xi Zhang | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/xi-zhang/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/xi-zhang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xi Zhang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
+      <title>Xi Zhang</title>
+      <link>https://mmlab-iie.github.io/author/xi-zhang/</link>
+    </image>
+    
+    <item>
+      <title>Feature integration analysis of bag-of-features model for image retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2013-yujing-neurocomputing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2013-yujing-neurocomputing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

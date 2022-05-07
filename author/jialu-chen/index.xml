@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jialu Chen | CogModal Group</title><link>https://mmlab-iie.github.io/author/jialu-chen/</link><atom:link href="https://mmlab-iie.github.io/author/jialu-chen/index.xml" rel="self" type="application/rss+xml"/><description>Jialu Chen</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://mmlab-iie.github.io/author/jialu-chen/avatar_hu67cb124e1a862a2847d6210736813148_8813954_270x270_fill_q75_lanczos_center.jpg</url><title>Jialu Chen</title><link>https://mmlab-iie.github.io/author/jialu-chen/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jialu Chen | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/jialu-chen/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/jialu-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jialu Chen</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mmlab-iie.github.io/author/jialu-chen/avatar_hu67cb124e1a862a2847d6210736813148_8813954_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Jialu Chen</title>
+      <link>https://mmlab-iie.github.io/author/jialu-chen/</link>
+    </image>
+    
+  </channel>
+</rss>

@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Junzheng Shi | CogModal Group</title><link>https://mmlab-iie.github.io/author/junzheng-shi/</link><atom:link href="https://mmlab-iie.github.io/author/junzheng-shi/index.xml" rel="self" type="application/rss+xml"/><description>Junzheng Shi</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate><image><url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url><title>Junzheng Shi</title><link>https://mmlab-iie.github.io/author/junzheng-shi/</link></image><item><title>ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification</title><link>https://mmlab-iie.github.io/publication/conference-2022-linxinjie-www/</link><pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate><guid>https://mmlab-iie.github.io/publication/conference-2022-linxinjie-www/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Junzheng Shi | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/junzheng-shi/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/junzheng-shi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Junzheng Shi</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
+      <title>Junzheng Shi</title>
+      <link>https://mmlab-iie.github.io/author/junzheng-shi/</link>
+    </image>
+    
+    <item>
+      <title>ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2022-linxinjie-www/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2022-linxinjie-www/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

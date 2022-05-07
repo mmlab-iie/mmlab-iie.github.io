@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Rundong Li | CogModal Group</title><link>https://mmlab-iie.github.io/author/rundong-li/</link><atom:link href="https://mmlab-iie.github.io/author/rundong-li/index.xml" rel="self" type="application/rss+xml"/><description>Rundong Li</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://mmlab-iie.github.io/author/rundong-li/avatar_huca35bcd798b7d2a49d13cf7a7b2c919b_58778_270x270_fill_q75_lanczos_center.jpg</url><title>Rundong Li</title><link>https://mmlab-iie.github.io/author/rundong-li/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rundong Li | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/rundong-li/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/rundong-li/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rundong Li</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mmlab-iie.github.io/author/rundong-li/avatar_huca35bcd798b7d2a49d13cf7a7b2c919b_58778_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Rundong Li</title>
+      <link>https://mmlab-iie.github.io/author/rundong-li/</link>
+    </image>
+    
+  </channel>
+</rss>

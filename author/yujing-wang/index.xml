@@ -1,1 +1,56 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Yujing Wang | CogModal Group</title><link>https://mmlab-iie.github.io/author/yujing-wang/</link><atom:link href="https://mmlab-iie.github.io/author/yujing-wang/index.xml" rel="self" type="application/rss+xml"/><description>Yujing Wang</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate><image><url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url><title>Yujing Wang</title><link>https://mmlab-iie.github.io/author/yujing-wang/</link></image><item><title>Evolving Attention with Residual Convolutions</title><link>https://mmlab-iie.github.io/publication/conference-2021-wangyujing-icml/</link><pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate><guid>https://mmlab-iie.github.io/publication/conference-2021-wangyujing-icml/</guid><description/></item><item><title>CogTree: Cognition Tree Loss for Unbiased Scene Graph Generation</title><link>https://mmlab-iie.github.io/publication/conference-2021-yujing-ijcai-cogtree/</link><pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate><guid>https://mmlab-iie.github.io/publication/conference-2021-yujing-ijcai-cogtree/</guid><description/></item><item><title>Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees</title><link>https://mmlab-iie.github.io/publication/conference-2021-baijiangang-eacl/</link><pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate><guid>https://mmlab-iie.github.io/publication/conference-2021-baijiangang-eacl/</guid><description/></item><item><title>Cross-modal knowledge reasoning for knowledge-based visual question answering</title><link>https://mmlab-iie.github.io/publication/journal-2020-yujing-pr/</link><pubDate>Wed, 16 Sep 2020 10:52:48 +0800</pubDate><guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-pr/</guid><description/></item><item><title>Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering</title><link>https://mmlab-iie.github.io/publication/conference-2020-zhuzihao-ijcai-mucko/</link><pubDate>Sat, 25 Apr 2020 01:45:56 +0800</pubDate><guid>https://mmlab-iie.github.io/publication/conference-2020-zhuzihao-ijcai-mucko/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yujing Wang | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/yujing-wang/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/yujing-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yujing Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
+      <title>Yujing Wang</title>
+      <link>https://mmlab-iie.github.io/author/yujing-wang/</link>
+    </image>
+    
+    <item>
+      <title>Evolving Attention with Residual Convolutions</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2021-wangyujing-icml/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2021-wangyujing-icml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CogTree: Cognition Tree Loss for Unbiased Scene Graph Generation</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2021-yujing-ijcai-cogtree/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2021-yujing-ijcai-cogtree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2021-baijiangang-eacl/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2021-baijiangang-eacl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-modal knowledge reasoning for knowledge-based visual question answering</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2020-yujing-pr/</link>
+      <pubDate>Wed, 16 Sep 2020 10:52:48 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-pr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-zhuzihao-ijcai-mucko/</link>
+      <pubDate>Sat, 25 Apr 2020 01:45:56 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-zhuzihao-ijcai-mucko/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

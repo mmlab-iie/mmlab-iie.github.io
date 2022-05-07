@@ -1,1 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Mingzhe Liao | CogModal Group</title><link>https://mmlab-iie.github.io/author/mingzhe-liao/</link><atom:link href="https://mmlab-iie.github.io/author/mingzhe-liao/index.xml" rel="self" type="application/rss+xml"/><description>Mingzhe Liao</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://mmlab-iie.github.io/author/mingzhe-liao/avatar_hu87c6b7f5b09ded544327ac1b62af8953_363812_270x270_fill_q75_lanczos_center.jpeg</url><title>Mingzhe Liao</title><link>https://mmlab-iie.github.io/author/mingzhe-liao/</link></image></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mingzhe Liao | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/mingzhe-liao/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/mingzhe-liao/index.xml" rel="self" type="application/rss+xml" />
+    <description>Mingzhe Liao</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://mmlab-iie.github.io/author/mingzhe-liao/avatar_hu87c6b7f5b09ded544327ac1b62af8953_363812_270x270_fill_q75_lanczos_center.jpeg</url>
+      <title>Mingzhe Liao</title>
+      <link>https://mmlab-iie.github.io/author/mingzhe-liao/</link>
+    </image>
+    
+  </channel>
+</rss>
