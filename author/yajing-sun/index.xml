@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yajing Sun | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/yajing-sun/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/yajing-sun/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yajing Sun</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
+      <title>Yajing Sun</title>
+      <link>https://mmlab-iie.github.io/author/yajing-sun/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Learning of Deterministic Dialogue Structure with Edge-Enhanced Graph Auto-Encoder</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2021-sunyajing-aaai/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2021-sunyajing-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-directional Cognitive Thinking Network for Machine Reading Comprehension</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-pengwei-coling/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-pengwei-coling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KBGN: Knowledge-Bridge Graph Network for Adaptive Vision-Text Reasoning in Visual Dialogue</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-acm-mm/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-acm-mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-zhuzihao-ijcai-mucko/</link>
+      <pubDate>Sat, 25 Apr 2020 01:45:56 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-zhuzihao-ijcai-mucko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-ijcai-dam/</link>
+      <pubDate>Fri, 24 Apr 2020 01:45:56 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-ijcai-dam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History-adaption knowledge incorporation mechanism for multi-turn dialogue system</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-sunyajing-aaai/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-sunyajing-aaai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

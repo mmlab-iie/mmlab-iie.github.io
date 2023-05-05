@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Qi Wu | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/qi-wu/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/qi-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Qi Wu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 02 Mar 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
+      <title>Qi Wu</title>
+      <link>https://mmlab-iie.github.io/author/qi-wu/</link>
+    </image>
+    
+    <item>
+      <title>MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2022-dingyang-cvpr/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2022-dingyang-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CogTree: Cognition Tree Loss for Unbiased Scene Graph Generation</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2021-yujing-ijcai-cogtree/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2021-yujing-ijcai-cogtree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Dual Encoding Model for Adaptive Visual Understanding in Visual Dialogue</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2020-yujing-tip/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-zhuzihao-ijcai-mucko/</link>
+      <pubDate>Sat, 25 Apr 2020 01:45:56 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-zhuzihao-ijcai-mucko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-ijcai-dam/</link>
+      <pubDate>Fri, 24 Apr 2020 01:45:56 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-ijcai-dam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DualVD: An Adaptive Dual Encoding Model for Deep Visual Understanding in Visual Dialogue</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-aaai/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning on the Relation: Enhancing Visual Representation for Visual Question Answering and Cross-modal Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2020-yujing-tmm/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-tmm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

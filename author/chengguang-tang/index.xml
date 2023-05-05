@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chengguang Tang | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/chengguang-tang/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/chengguang-tang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chengguang Tang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
+      <title>Chengguang Tang</title>
+      <link>https://mmlab-iie.github.io/author/chengguang-tang/</link>
+    </image>
+    
+    <item>
+      <title>Unsupervised Learning of Deterministic Dialogue Structure with Edge-Enhanced Graph Auto-Encoder</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2021-sunyajing-aaai/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2021-sunyajing-aaai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
