@@ -5,12 +5,20 @@
     <link>https://mmlab-iie.github.io/author/xiangyan-qu/</link>
       <atom:link href="https://mmlab-iie.github.io/author/xiangyan-qu/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiangyan Qu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://mmlab-iie.github.io/author/xiangyan-qu/avatar_hu128345bc7cf98ed72954965b5d4dd6f4_247634_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
       <title>Xiangyan Qu</title>
       <link>https://mmlab-iie.github.io/author/xiangyan-qu/</link>
     </image>
+    
+    <item>
+      <title>Towards Fast and Accurate Image-Text Retrieval with Self-Supervised Fine-Grained Alignment</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2023-zhuangjiamin-tmm/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2023-zhuangjiamin-tmm/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
