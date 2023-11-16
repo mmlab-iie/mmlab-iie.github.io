@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shuo Wang | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/shuo-wang/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/shuo-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shuo Wang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
+      <title>Shuo Wang</title>
+      <link>https://mmlab-iie.github.io/author/shuo-wang/</link>
+    </image>
+    
+    <item>
+      <title>BDVFL: Blockchain-based Decentralized Vertical Federated Learning</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2023-shuo-wang/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2023-shuo-wang/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

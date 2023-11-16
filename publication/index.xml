@@ -5,12 +5,28 @@
     <link>https://mmlab-iie.github.io/publication/</link>
       <atom:link href="https://mmlab-iie.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
       <title>Publications</title>
       <link>https://mmlab-iie.github.io/publication/</link>
     </image>
+    
+    <item>
+      <title>Efficiency-Enhanced Blockchain-Based Client Selection in Heterogeneous Federated Learning</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2023-zhiqi-lei/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2023-zhiqi-lei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BDVFL: Blockchain-based Decentralized Vertical Federated Learning</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2023-shuo-wang/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2023-shuo-wang/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Fast and Accurate Image-Text Retrieval with Self-Supervised Fine-Grained Alignment</title>
