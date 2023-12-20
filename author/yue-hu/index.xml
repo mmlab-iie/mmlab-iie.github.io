@@ -5,12 +5,20 @@
     <link>https://mmlab-iie.github.io/author/yue-hu/</link>
       <atom:link href="https://mmlab-iie.github.io/author/yue-hu/index.xml" rel="self" type="application/rss+xml" />
     <description>Yue Hu</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Dec 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
       <title>Yue Hu</title>
       <link>https://mmlab-iie.github.io/author/yue-hu/</link>
     </image>
+    
+    <item>
+      <title>Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2024-tang-yuanmin/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2024-tang-yuanmin/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Towards Fast and Accurate Image-Text Retrieval with Self-Supervised Fine-Grained Alignment</title>

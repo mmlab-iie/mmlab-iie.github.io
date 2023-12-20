@@ -151,26 +151,61 @@
   
   <url>
     <loc>https://mmlab-iie.github.io/publication-type/1/</loc>
-    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mmlab-iie.github.io/authors/</loc>
-    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://mmlab-iie.github.io/publication/conference-2023-zhiqi-lei/</loc>
-    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+    <loc>https://mmlab-iie.github.io/publication/conference-2024-tang-yuanmin/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmlab-iie.github.io/author/gang-xiong/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmlab-iie.github.io/author/jiamin-zhuang/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mmlab-iie.github.io/author/jing-yu/</loc>
-    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://mmlab-iie.github.io/author/keke-gai/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmlab-iie.github.io/publication_types/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmlab-iie.github.io/publication/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmlab-iie.github.io/author/yuanmin-tang/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmlab-iie.github.io/author/yue-hu/</loc>
+    <lastmod>2023-12-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mmlab-iie.github.io/publication/conference-2023-zhiqi-lei/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -181,16 +216,6 @@
   
   <url>
     <loc>https://mmlab-iie.github.io/author/liehuang-zhu/</loc>
-    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmlab-iie.github.io/publication_types/</loc>
-    <lastmod>2023-11-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmlab-iie.github.io/publication/</loc>
     <lastmod>2023-11-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -215,11 +240,6 @@
   </url>
   
   <url>
-    <loc>https://mmlab-iie.github.io/author/jiamin-zhuang/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://mmlab-iie.github.io/publication/journal-2023-zhuangjiamin-tmm/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url>
@@ -231,11 +251,6 @@
   
   <url>
     <loc>https://mmlab-iie.github.io/author/yang-ding/</loc>
-    <lastmod>2023-09-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmlab-iie.github.io/author/yue-hu/</loc>
     <lastmod>2023-09-01T00:00:00+00:00</lastmod>
   </url>
   
@@ -255,7 +270,7 @@
   </url>
   
   <url>
-    <loc>https://mmlab-iie.github.io/author/qi-wu/</loc>
+    <loc>https://mmlab-iie.github.io/author/qi-wu./</loc>
     <lastmod>2022-03-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -266,11 +281,6 @@
   
   <url>
     <loc>https://mmlab-iie.github.io/publication/conference-2022-linxinjie-www/</loc>
-    <lastmod>2022-01-01T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mmlab-iie.github.io/author/gang-xiong/</loc>
     <lastmod>2022-01-01T00:00:00+00:00</lastmod>
   </url>
   
