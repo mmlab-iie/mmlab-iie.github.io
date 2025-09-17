@@ -1,0 +1,391 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CogModal Group</title>
+    <link>https://mmlab-iie.github.io/</link>
+      <atom:link href="https://mmlab-iie.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>CogModal Group</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
+      <title>CogModal Group</title>
+      <link>https://mmlab-iie.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Example Event</title>
+      <link>https://mmlab-iie.github.io/event_new/example/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/event_new/example/</guid>
+      <description>&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including page elements such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Context-I2W: Mapping Images to Context-dependent Words for Accurate Zero-Shot Composed Image Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2024-tang-yuanmin/</link>
+      <pubDate>Fri, 01 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2024-tang-yuanmin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficiency-Enhanced Blockchain-Based Client Selection in Heterogeneous Federated Learning</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2023-zhiqi-lei/</link>
+      <pubDate>Wed, 01 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2023-zhiqi-lei/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>BDVFL: Blockchain-based Decentralized Vertical Federated Learning</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2023-shuo-wang/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2023-shuo-wang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Fast and Accurate Image-Text Retrieval with Self-Supervised Fine-Grained Alignment</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2023-zhuangjiamin-tmm/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2023-zhuangjiamin-tmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MuKEA: Multimodal Knowledge Extraction and Accumulation for Knowledge-based Visual Question Answering</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2022-dingyang-cvpr/</link>
+      <pubDate>Wed, 02 Mar 2022 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2022-dingyang-cvpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ET-BERT: A Contextualized Datagram Representation with Pre-training Transformers for Encrypted Traffic Classification</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2022-linxinjie-www/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2022-linxinjie-www/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WLinker: Modeling Relational Triplet Extraction as Word Linking</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2022-xuyongxiu-icassp/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2022-xuyongxiu-icassp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>APER: AdaPtive Evidence-driven Reasoning Network for machine reading comprehension with unanswerable questions</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2021-pengwei-kbs/</link>
+      <pubDate>Wed, 01 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2021-pengwei-kbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evolving Attention with Residual Convolutions</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2021-wangyujing-icml/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2021-wangyujing-icml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CogTree: Cognition Tree Loss for Unbiased Scene Graph Generation</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2021-yujing-ijcai-cogtree/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2021-yujing-ijcai-cogtree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DMRFNet: Deep Multimodal Reasoning and Fusion for Visual Question Answering and explanation generation</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2021-zhangweifeng-if/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2021-zhangweifeng-if/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Syntax-BERT: Improving Pre-trained Transformers with Syntax Trees</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2021-baijiangang-eacl/</link>
+      <pubDate>Mon, 01 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2021-baijiangang-eacl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MCR-NET: A Multi-Step Co-Interactive Relation Network for Unanswerable Questions on Machine Reading Comprehension</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2021-pengwei-icassp/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2021-pengwei-icassp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Learning of Deterministic Dialogue Structure with Edge-Enhanced Graph Auto-Encoder</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2021-sunyajing-aaai/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2021-sunyajing-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-directional Cognitive Thinking Network for Machine Reading Comprehension</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-pengwei-coling/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-pengwei-coling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning cross-modal correlations by exploring inter-word semantics and stacked co-attention</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2020-yujing-prl/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-prl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Dual Encoding Model for Adaptive Visual Understanding in Visual Dialogue</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2020-yujing-tip/</link>
+      <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-tip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-modal knowledge reasoning for knowledge-based visual question answering</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2020-yujing-pr/</link>
+      <pubDate>Wed, 16 Sep 2020 10:52:48 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-pr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-modal learning with prior visual relation knowledge</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2020-yujing-kbs/</link>
+      <pubDate>Sat, 12 Sep 2020 11:13:02 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-kbs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KBGN: Knowledge-Bridge Graph Network for Adaptive Vision-Text Reasoning in Visual Dialogue</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-acm-mm/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-acm-mm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mucko: Multi-Layer Cross-Modal Knowledge Reasoning for Fact-based Visual Question Answering</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-zhuzihao-ijcai-mucko/</link>
+      <pubDate>Sat, 25 Apr 2020 01:45:56 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-zhuzihao-ijcai-mucko/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DAM: Deliberation, Abandon and Memory Networks for Generating Detailed and Non-repetitive Responses in Visual Dialogue</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-ijcai-dam/</link>
+      <pubDate>Fri, 24 Apr 2020 01:45:56 +0800</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-ijcai-dam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multimodal feature fusion by relational reasoning and attention for visual question answering</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2020-zhangweifeng-if/</link>
+      <pubDate>Sun, 01 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2020-zhangweifeng-if/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Coarse-to-Careful: Seeking Semantic-Related Knowledge for Open-Domain Commonsense Question Answering</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-xingluxi-icassp/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-xingluxi-icassp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DualVD: An Adaptive Dual Encoding Model for Deep Visual Understanding in Visual Dialogue</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-aaai/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-jiangxiaoze-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>History-adaption knowledge incorporation mechanism for multi-turn dialogue system</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-sunyajing-aaai/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-sunyajing-aaai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prior Visual Relationship for Visual Question Answering</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2020-yangzhuoqian-icip/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2020-yangzhuoqian-icip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reasoning on the Relation: Enhancing Visual Representation for Visual Question Answering and Cross-modal Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2020-yujing-tmm/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2020-yujing-tmm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2D-Convolution Based Feature Fusion for Cross-Modal Correlation Learning</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2019-guojingjing-iccs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2019-guojingjing-iccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-Grained Label Learning via Siamese Network for Cross-modal Information Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2019-xuyiming-iccs/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2019-xuyiming-iccs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic Modeling of Textual Relationships in Cross-Modal Retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2019-yujing-ksem/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2019-yujing-ksem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fine-grained correlation learning with stacked co-attention networks for cross-modal information retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2018-luyuhang-ksem/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2018-luyuhang-ksem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modeling text with graph convolutional network for cross-modal information retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2018-yujing-pcm/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2018-yujing-pcm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PatternTreeISO: A Pattern Graph Correlation Framework for Accelerating Subgraph Isomorphism over Massive Graphs</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2016-zhoumeizi-cikm/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2016-zhoumeizi-cikm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Topic correlation model for cross-modal multimedia information retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2016-qin-paa/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2016-qin-paa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vsep: A distributed algorithm for graph edge partitioning</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2015-zhangyu-ica3pp/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2015-zhangyu-ica3pp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Feature integration analysis of bag-of-features model for image retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2013-yujing-neurocomputing/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2013-yujing-neurocomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Modal Information Retrieval--A Case Study on Chinese Wikipedia</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2012-congyonghui-adma/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2012-congyonghui-adma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-modal topic correlations for multimedia retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2012-yujing-icpr/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2012-yujing-icpr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A SIFT-LBP image retrieval model based on bag of features</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2011-yujing-icip/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2011-yujing-icip/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mmlab-iie.github.io/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mmlab-iie.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/contact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mmlab-iie.github.io/course/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/course/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mmlab-iie.github.io/event/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://mmlab-iie.github.io/people/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/people/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

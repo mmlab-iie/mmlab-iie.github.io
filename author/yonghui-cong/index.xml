@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yonghui Cong | CogModal Group</title>
+    <link>https://mmlab-iie.github.io/author/yonghui-cong/</link>
+      <atom:link href="https://mmlab-iie.github.io/author/yonghui-cong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yonghui Cong</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://mmlab-iie.github.io/media/logo_hu84f68ef808f5678f341eb7fe0bd462f0_820896_300x300_fit_lanczos_2.png</url>
+      <title>Yonghui Cong</title>
+      <link>https://mmlab-iie.github.io/author/yonghui-cong/</link>
+    </image>
+    
+    <item>
+      <title>Topic correlation model for cross-modal multimedia information retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/journal-2016-qin-paa/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/journal-2016-qin-paa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-Modal Information Retrieval--A Case Study on Chinese Wikipedia</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2012-congyonghui-adma/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2012-congyonghui-adma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-modal topic correlations for multimedia retrieval</title>
+      <link>https://mmlab-iie.github.io/publication/conference-2012-yujing-icpr/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://mmlab-iie.github.io/publication/conference-2012-yujing-icpr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
